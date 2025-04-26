@@ -1,15 +1,8 @@
-# Node modules (för frontend)
 frontend/node_modules/
-
-# Build-filer
 bin/
 obj/
-
-# Databasfil (lokal)
 Backend/projects.db
-
-# VS Code inställningar (lokalt)
 .vscode/
-
-# Environment settings
 .env
+*.DS_Store
+Thumbs.db
